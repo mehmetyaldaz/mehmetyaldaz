@@ -1,4 +1,4 @@
-# Hi, I'm Mehmet Yaldaz 👋
+# Hi, I'm Mehmet 👋
 
 I'm a Computer Science student at the Polish-Japanese Academy of Information Technology (PJATK) in Warsaw, specializing in Artificial Intelligence. I enjoy building machine learning models, software applications, and end-to-end projects that combine data, engineering, and practical problem solving.
 
