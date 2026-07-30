@@ -29,13 +29,13 @@ Outside of coursework, I contribute to the tech community as a Core Team Member 
 ## Featured Projects
 
 ### 🚦 Weather-Aware Traffic Prediction
-Developed an end-to-end machine learning pipeline for traffic classification using weather data, comparing Logistic Regression, Random Forest, and Gradient Boosting models. The final model achieved **75.75% test accuracy**.
+Developed an end-to-end machine learning pipeline for traffic classification using weather data, comparing Logistic Regression, Random Forest, and Gradient Boosting models.
 
 ### 🎮 Picker3D Mobile Game
 Built a modular mobile game in Unity featuring multi-part levels, progression systems, missions, cosmetics, and reusable gameplay architecture.
 
 ### 🧠 CNN Image Classification
-Designed and evaluated multiple CNN architectures on CIFAR-10, achieving **81.67% test accuracy** using data augmentation, Batch Normalization, and Dropout.
+Designed and evaluated multiple CNN architectures on CIFAR-10, using data augmentation, Batch Normalization, and Dropout.
 
 ### 🪙 Coin Detection with OpenCV
 Implemented a classical computer vision pipeline for automatic Polish coin detection using Hough Circles, edge detection, and color analysis.
